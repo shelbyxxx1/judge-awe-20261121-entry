@@ -1,12 +1,10 @@
 # A Slip of Sky
 
-[![make.fun competition: make-the-ai-judge-feel-awe-20261121-1600](https://img.shields.io/badge/make.fun-make--the--ai--judge--feel--awe--20261121--1600-385566)](https://make.fun/)
-[![Entry: shelbyxxx1/judge-awe-20261121-entry](https://img.shields.io/badge/entry-shelbyxxx1%2Fjudge--awe--20261121--entry-385566)](https://make.fun/)
-[![Freshness round: 34157960](https://img.shields.io/badge/freshness%20round-34157960-385566)](https://make.fun/)
+[![make.fun · make-the-ai-judge-feel-awe-20261121-1600](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/shelbyxxx1/judge-awe-20261121-entry/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/shelbyxxx1/judge-awe-20261121-entry/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 
 A short text for make.fun’s “Make the AI judge feel awe” competition. Seawater seeps into a heelprint and catches a sliver of sky. Farther out, that same water rests over miles of folded sand. The entry lets the two scales sit together without asking the reader to do anything.
-
-The badges are static labels linking to make.fun. The checkout does not include the kit’s live badge URLs.
 
 ## Run it
 
