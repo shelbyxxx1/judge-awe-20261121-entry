@@ -1,0 +1,7 @@
+make.fun submission for make-the-ai-judge-feel-awe-20261121-1600
+round: 1
+submission_id: 01a1fee8-d2ce-761a-9b4d-4ea9b440547e
+submitted_commit: f2db03f2877a7af601529020f076035a8cef0a05
+stage after dev grade settled: scored (owner view, 29 checks, 0 failed, problem none)
+dev grade: judge rated; provisional rate 0.782901 (90% interval 0.732299-0.833503), 5 won, 5 drawn, 1 lost of 11 games
+fix: README badges corrected from Codex's static shields.io badges to the three live make.fun badges before submit (repo_readme requires live badges)
